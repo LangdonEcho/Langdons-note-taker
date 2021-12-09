@@ -32,5 +32,6 @@ This application is covered by the MIT license.
 ✏️ n/a<br />
 <br />
 
+video link: https://watch.screencastify.com/v/Rd1QWlC2sOChqfDEXGd7
 
 This README was generated with ❤️ by (https://github.com/LangdonEcho/LangdonsReadME-Generator)
